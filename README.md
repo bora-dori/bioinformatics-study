@@ -1,5 +1,3 @@
-# 🧬 Bioinformatics
-
 A growing collection of my **bioinformatics study notes and analyses**  
 as I transition from biological sciences into computational biology.
 
